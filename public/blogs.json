@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/TmZx463/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author_img": "https://i.ibb.co.com/Vtyd4Ng/boy1.png",
+      "author": "Hamza Sohail",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 5,
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/9tnmqWv/2.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author_img": "https://i.ibb.co.com/1QkHJ9Y/boy2.jpg",
+      "author": "Mr. Raju",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 10,
+      "hashtags": ["beginners", "programming"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/5Bk5Tpx/3.png",
+      "title": "Mastering React: A Comprehensive Guide",
+      "author_img": "https://i.ibb.co.com/sm50nFH/girl1.jpg",
+      "author": "Mrs. Setara",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 8,
+      "hashtags": ["react", "javascript", "frontend", "webdevelopment"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/xS40KpC/4.jpg",
+      "title": "Top 10 Free Resources for Web Developers",
+      "author_img": "https://i.ibb.co.com/H4nLp3z/girl2.jpg",
+      "author": "Mina Mostofa",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 12,
+      "hashtags": ["freeresources", "webdevelopment", "coding", "learning"]
+    }
+  ]
+  
